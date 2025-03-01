@@ -1,0 +1,21 @@
+MMMMMMMMMMMMMMMMMMMMM
+M         M       M M
+M MMMMMMM M MMM M M M
+M M         M   M M M
+M M MMMMMMMMM MMM M M
+M M   M     M M M M M
+M MMMMM MMM MMM MMM M
+M       M M       M M
+M MMMMM M MMMMMMMMM M
+M M   M   M   M     M
+M MMM MMM M M MMMMM M
+M   M M M   M     M M
+MMM M M MMM MMMMMMM M
+M   M M           M M
+M MMM MMM MMMMM M M M
+M M   M M M     M M M
+M M M M MMM MMMMM M M
+M M M       M   M   M
+M M M MMMMMMM M MMM M
+M M M         M   M M
+MMMMMMMMMMMMMMMMMMMMM
